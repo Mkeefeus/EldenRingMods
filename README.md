@@ -1,4 +1,4 @@
-# All credit to Nordgaren and Gixxpunk for the fix. I just packaged a release for ease of download and import to EMM
+# All credit to Nordgaren and Gixxpunk for the fix, and techview for the original mods. I just packaged a release for ease of download and import to EMM
 
 # EldenRingMods
 A collection of mods I've made for Elden Ring. For use with [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117).
